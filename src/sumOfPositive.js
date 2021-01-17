@@ -1,7 +1,9 @@
 function sumOfPositive(array){
   var total = 0
   for(index = 0; index < array.length; index ++){
-    total += array[index]    
+    if (array[index] > 0) {
+    total += array[index] 
+    }   
   }
   return total 
 }

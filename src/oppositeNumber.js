@@ -1,3 +1,4 @@
 function oppositeNumber(number){
-  return -Math.abs(number)
+
+  return number > 0 ?  -Math.abs(number) : Math.abs(number);
 }

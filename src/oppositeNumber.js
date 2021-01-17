@@ -19,6 +19,10 @@ what is a ternery opperator? its a one line if else booleanian operation.
 
 //alternative
 
+// function oppositeNumber(number){
+//   return number - (number * 2)
+// }
+
 function oppositeNumber(number){
-  return number - (number * 2)
+  return (-number);
 }

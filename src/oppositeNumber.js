@@ -3,7 +3,12 @@
 //   return number > 0 ?  -Math.abs(number) : Math.abs(number);
 // }
 
-// questions to answer:
+/* questions to answer:
+how does the Math.abs work?
+what is a ternery opperator?
+
+
+*/
 
 
 //alternative
